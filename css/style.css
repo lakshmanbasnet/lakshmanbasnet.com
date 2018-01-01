@@ -317,3 +317,27 @@ FOLLOW BUTTON
     border-right-color: white;
 }
 
+
+.logo-client
+{
+  filter: gray; /* IE6-9 */
+  -webkit-filter: grayscale(1); /* Google Chrome, Safari 6+ & Opera 15+ */
+   -webkit-transition: all .1s ease;
+  -moz-transition: all .1s ease;
+  -o-transition: all .1s ease;
+  -ms-transition: all .1s ease;
+  transition: all .1s ease;
+  cursor:pointer;
+}
+
+
+.logo-client:hover
+{
+  filter: none; /* IE6-9 */
+  -webkit-filter: grayscale(0); /* Google Chrome, Safari 6+ & Opera 15+ */
+
+}
+.crousel-client{
+    text-align:center;
+    margin-top:30px;
+    }

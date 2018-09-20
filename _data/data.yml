@@ -9,14 +9,14 @@ sidebar:
     # Profile information
     name: Laxman Basnet
     tagline: Digital Media Marketer
-    avatar:   #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     address: South Road, Everard Park, SA
     email: lakshmanbasnet@gmail.com
     phone: 0414479066
     website: blog.lakshmanbasnet.com #do not add http://
-    linkedin: lakshmanbasnet
+    linkedin: lakshman-basnet-1609b1b3
     github: lakshmanbasnet
     bitbucket:
     twitter: '@lakshmanbasnet'

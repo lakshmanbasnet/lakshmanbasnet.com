@@ -1,0 +1,149 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output. 
+#
+
+sidebar:
+    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Laxman Basnet
+    tagline: Digital Media Marketer
+    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    address: South Road, Everard Park, SA
+    email: lakshmanbasnet@gmail.com
+    phone: 0414479066
+    website: blog.lakshmanbasnet.com #do not add http://
+    linkedin: lakshmanbasnet
+    github: lakshmanbasnet
+    bitbucket:
+    twitter: '@lakshmanbasnet'
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    youtube: knowledgeserverplus
+
+    languages:
+      - idiom: English
+        level: Excellent
+
+      - idiom: Hindi
+        level: Fluent
+
+      - idiom: Nepali
+        level: Excellent
+
+             
+    interests:
+      - item: YouTube Content Creation
+        link: youtube.com/knowledgeserverplus
+
+      - item: Blogging
+        link: blog.lakshmanbasnet.com
+
+      - item: Cooking
+        link:
+
+career-profile:
+    title: Career Profile
+    summary: |
+      IT professional with proven years of experience in computer programming, networking, web development and digital media. A great team player, fast learner and problem solver with leadership, project management and communication skills. Fluent in English, Hindi and Nepali.
+
+education:
+    - degree: B.Sc in Computer Science and Information Technology
+      university: Tribhuvan University
+      time: 2013 - 2017
+      details: |
+        Bachelors in Computer Science and IT with heavy interests in e-commerce, programming and database system.
+
+
+    - degree: 10 +2 in Physical Science
+      university: Pentagon International College
+      time: 2011 - 2013
+      details: |
+        Two years of high schooling in physical science with interests in:
+
+          - Computer Science
+          - Mathematics
+          - Physics 
+
+    - degree: Schooling
+      university: Birendra Sainik Awasiya Mahavidyalaya
+      time: 2000 - 2010
+      details: |
+        Schooling from residential military shool.
+
+          
+
+experiences:
+    - role: Social Media Promoter
+      time: Jun 2017 - Aug 2018
+      company: House of Rajkarnicar, Patan, Nepal
+      details: |
+          - Social media marketing and handling
+          - Website development and maintenance
+          - Search Engine Optimization (SEO) and Search Engine Marketing(SEM)
+          - Content writing and blogging
+          - Computer maintenance and consultation
+          - Team management
+
+    - role: Business Developer
+      time: Jan 2016 - Dec 2016
+      company: TECHRISE, Patan, Nepal
+      details: |
+          - Strategies development, implementation and analysis 
+          - Communications and PR
+          - Social Media management
+          - Business operations
+          
+
+    - role: Computer Science Teacher
+      time: Apr 2015 - Apr 2016
+      company: Naulo Jyoti English School, Bhaktapur, Nepal
+      details: |
+          - Teach Computer Science
+          - Handle Schools's network and security
+          - Monitor result processing software
+
+    - role: Digital Media Marketing Consultant
+      time: Jan 2016 - now
+      company: Nepal Mega College, Swastik College, Souvenir Publications
+      
+    - role: Member
+      time: Apr 2016 - now
+      company: Robotics Association of Nepal
+      
+    - role: Trusted Street View Photographer 
+      time: Jan 2018 - now
+      company:  Google Street View 
+
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: Social Media Marketing
+        level: 88%
+
+      - name: Jekyll
+        level: 98%
+
+      - name: Bootstrap
+        level: 78%
+
+      - name: HTML5 & CSS3
+        level: 90%
+
+      - name: Ruby on Rails
+        level: 65%
+
+      - name: Email Marketing
+        level: 90%
+
+      - name: Network management
+        level: 75%
+
+      - name: Linux System Administration
+        level: 70%
+
+footer: >
+    

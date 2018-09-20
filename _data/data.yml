@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Laxman Basnet
     tagline: Digital Media Marketer
-    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar:   #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     address: South Road, Everard Park, SA

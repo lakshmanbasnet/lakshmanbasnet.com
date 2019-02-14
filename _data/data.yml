@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     address: South Road, Everard Park, SA
     email: lakshmanbasnet@gmail.com
-    phone: 0414479066
+    phone: 
     website: blog.lakshmanbasnet.com #do not add http://
     linkedin: lakshman-basnet-1609b1b3
     github: lakshmanbasnet
@@ -76,6 +76,11 @@ education:
           
 
 experiences:
+    - role: Digital Marketing Coordinator
+      time: Nov 2018 - now
+      company: 
+      details: |
+          
     - role: Social Media Promoter
       time: Jun 2017 - Aug 2018
       company: House of Rajkarnicar, Nepal

@@ -25,19 +25,19 @@ sidebar:
 
     Certifications:
     - idiom: Digital Marketing
-        level: Charles Sturt University
+      level: Charles Sturt University
         
     - idiom: Google Ads Display and Search
-        level: Google
+      level: Google
         
-        - idiom: Inbound, Content and Email Marketing
-        level: Hubspot
+    - idiom: Inbound, Content and Email Marketing
+      level: Hubspot
         
-        - idiom: 3CX Certified Engineer
-        level: 3CX
+    - idiom: 3CX Certified Engineer
+      level: 3CX
         
-        - idiom: Google My Business
-        level: Google
+    - idiom: Google My Business
+      level: Google
 
              
     interests:

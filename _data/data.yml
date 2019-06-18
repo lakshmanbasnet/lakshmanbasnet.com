@@ -12,7 +12,7 @@ sidebar:
     avatar: profile.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    address: Avonmore Ave, Trinity Gardens, SA
+    address: Avonmore Avenue, Trinity Gardens, SA 5068
     email: lakshmanbasnet@gmail.com
     phone: 0414479066
     website: blog.lakshmanbasnet.com #do not add http://
@@ -23,21 +23,15 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     youtube: knowledgeserverplus
 
-    Certifications:
-    - idiom: Digital Marketing
-      level: Charles Sturt University
-        
-    - idiom: Google Ads Display and Search
-      level: Google
-        
-    - idiom: Inbound, Content and Email Marketing
-      level: Hubspot
-        
-    - idiom: 3CX Certified Engineer
-      level: 3CX
-        
-    - idiom: Google My Business
-      level: Google
+    languages:
+      - idiom: English
+        level: Excellent
+
+      - idiom: Hindi
+        level: Fluent
+
+      - idiom: Nepali
+        level: Excellent
 
              
     interests:
@@ -60,37 +54,25 @@ education:
       time: 2013 - 2017
       details: |
         Bachelors in Computer Science and IT with interests in e-commerce, programming and database system.
-
-
     - degree: 10 +2 in Physical Science
       university: Pentagon International College
       time: 2011 - 2013
       details: |
         Two years of high schooling in physical science with interests in:
-
           - Computer Science
           - Mathematics
           - Physics 
-
     - degree: Schooling
       university: Birendra Sainik Awasiya Mahavidyalaya
       time: 2000 - 2010
       details: |
         Schooling from residential military shool.
-
           
-
 experiences:
     - role: Digital Marketing Coordinator
       time: Nov 2018 - Jun 2019
       company: My Money House, Adelaide, SA
       details: |
-          - Web design and development
-          - Landing pages, chat bots, email funnels
-          - SEO, SEM, Google ads, facebook ads
-          - Social media management and content writing
-          - Windows Server,Active Directory, User management, MS Exchange Server 
-          - VOIP and 3CX management
           
     - role: Social Media Promoter
       time: Jun 2017 - Aug 2018
@@ -101,7 +83,6 @@ experiences:
           - SEO and SEM
           - Content writing and blogging
           
-
     - role: Business Developer
       time: Jan 2016 - Dec 2016
       company: TECHRISE, Nepal
@@ -110,7 +91,6 @@ experiences:
           - Social media management
           - Business operations
           
-
     - role: Computer Science Teacher
       time: Apr 2015 - Apr 2016
       company: Naulo Jyoti English School, Nepal
@@ -118,12 +98,11 @@ experiences:
           - Teach computer science
           - Handle schools's network and security
           - Monitor result processing software
-
     - role: Digital Media Marketing Consultant
       time: 2016 - 2018
       company: Nepal Mega College, Swastik College, Souvenir Publications
       
-   - role: Member
+    - role: Member
       time: 2016 - 2018
       company: Robotics Association of Nepal
       
@@ -142,10 +121,10 @@ skills:
         level: 82%
 
       - name: Web Design
-        level: 86%
+        level: 78%
 
       - name: Web Development
-        level: 79%
+        level: 70%
 
       - name: Email Marketing
         level: 90%
@@ -155,9 +134,6 @@ skills:
 
       - name: System Administration
         level: 70%
-        
-      - name: Active Directory and MS Exchange Server
-        level: 70%
 
 footer: >
-    
+

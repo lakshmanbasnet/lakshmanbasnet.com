@@ -23,15 +23,22 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     youtube: knowledgeserverplus
 
-    languages:
-      - idiom: English
-        level: Excellent
+    Certifications:
+      - idiom: Digital Marketing
+        level: Charles Sturt University
 
-      - idiom: Hindi
-        level: Fluent
+      - idiom: Google Ads (Display and Search)
+        level: Google
 
-      - idiom: Nepali
-        level: Excellent
+      - idiom: Inbound, Content and Email Marketing
+        level: Hubspot
+        
+       - idiom: 3CX Certified Engineer
+        level: 3CX
+        
+        
+        - idiom: Google My Business
+        level: Google
 
              
     interests:

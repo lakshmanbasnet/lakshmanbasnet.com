@@ -27,7 +27,7 @@ sidebar:
       - idiom: Digital Marketing
         level: Charles Sturt University
 
-      - idiom: Google Ads (Display and Search)
+      - idiom: Google Ads Display and Search
         level: Google
 
       - idiom: Inbound, Content and Email Marketing
@@ -36,8 +36,7 @@ sidebar:
        - idiom: 3CX Certified Engineer
         level: 3CX
         
-        
-        - idiom: Google My Business
+       - idiom: Google My Business
         level: Google
 
              
@@ -86,6 +85,12 @@ experiences:
       time: Nov 2018 - Jun 2019
       company: My Money House, Adelaide, SA
       details: |
+          - Web design and development
+          - Landing pages, chat bots, email funnels
+          - SEO, SEM, Google ads, facebook ads
+          - Social media management and content writing
+          - Windows Server,Active Directory, User management, MS Exchange Server 
+          - VOIP and 3CX management
           
     - role: Social Media Promoter
       time: Jun 2017 - Aug 2018
@@ -151,7 +156,7 @@ skills:
       - name: System Administration
         level: 70%
         
-       - name: Active Directory and MS Exchange Server
+      - name: Active Directory and MS Exchange Server
         level: 70%
 
 footer: >

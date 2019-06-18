@@ -8,13 +8,13 @@ sidebar:
 
     # Profile information
     name: Laxman Basnet
-    tagline: Digital Media Marketer
+    tagline: Digital Media Marketing Professional
     avatar: profile.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    address: South Road, Everard Park, SA
+    address: Avonmore Avenue, Trinity Gardens, SA 5068
     email: lakshmanbasnet@gmail.com
-    phone: 
+    phone: 0414479066
     website: blog.lakshmanbasnet.com #do not add http://
     linkedin: lakshman-basnet-1609b1b3
     github: lakshmanbasnet
@@ -47,8 +47,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      IT professional with proven years of experience in computer programming, networking, web development and digital media. A great team player, fast learner and problem solver with leadership, project management and communication skills. Fluent in English, Hindi and Nepali.
-
+      IT professional with proven years of experience in computer programming, networking, web development and digital media. A great team player, fast learner and problem solver with leadership, project management and communication skills.
 education:
     - degree: B.Sc in Computer Science and Information Technology
       university: Tribhuvan University
@@ -77,8 +76,8 @@ education:
 
 experiences:
     - role: Digital Marketing Coordinator
-      time: Nov 2018 - now
-      company: Financial and Real Estate Company, Adelaide, South Australia
+      time: Nov 2018 - Jun 2019
+      company: My Money House, Adelaide, SA
       details: |
           
     - role: Social Media Promoter
@@ -109,11 +108,11 @@ experiences:
           - Monitor result processing software
 
     - role: Digital Media Marketing Consultant
-      time: Jan 2016 - now
+      time: 2016 - 2018
       company: Nepal Mega College, Swastik College, Souvenir Publications
       
     - role: Member
-      time: Apr 2016 - now
+      time: 2016 - 2018
       company: Robotics Association of Nepal
       
     - role: Trusted Street View Photographer 
@@ -127,22 +126,22 @@ skills:
       - name: Social Media Marketing
         level: 88%
 
-      - name: Jekyll
-        level: 98%
+      - name: Content Marketing
+        level: 82%
 
       - name: Web Design
         level: 78%
 
       - name: Web Development
-        level: 65%
+        level: 70%
 
       - name: Email Marketing
         level: 90%
 
-      - name: Network management
+      - name: Network Management
         level: 75%
 
-      - name: Linux System Administration
+      - name: System Administration
         level: 70%
 
 footer: >

@@ -130,10 +130,10 @@ skills:
         level: 82%
 
       - name: Web Design
-        level: 78%
+        level: 86%
 
       - name: Web Development
-        level: 70%
+        level: 79%
 
       - name: Email Marketing
         level: 90%
@@ -142,6 +142,9 @@ skills:
         level: 75%
 
       - name: System Administration
+        level: 70%
+        
+       - name: Active Directory and MS Exchange Server
         level: 70%
 
 footer: >

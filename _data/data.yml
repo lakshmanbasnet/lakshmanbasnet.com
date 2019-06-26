@@ -12,7 +12,7 @@ sidebar:
     avatar: profile.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    address: Avonmore Avenue, Trinity Gardens, SA
+    address: Trinity Gardens, SA 5068
     email: lakshmanbasnet@gmail.com
     phone: 
     website: blog.lakshmanbasnet.com #do not add http://
@@ -71,7 +71,7 @@ education:
 experiences:
     - role: Digital Marketing Coordinator
       time: Nov 2018 - now
-      company: My Money House, Adelaide, SA
+      company: Financial Company, Adelaide, SA
       details: |
           
     - role: Social Media Promoter
@@ -136,4 +136,3 @@ skills:
         level: 70%
 
 footer: >
-

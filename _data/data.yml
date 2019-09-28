@@ -9,38 +9,29 @@ sidebar:
     # Profile information
     name: Laxman Basnet
     tagline: Digital Media Marketer
-    avatar:  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profile.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     address: Trinity Gardens, SA 5068
     email: lakshmanbasnet@gmail.com
-    phone: 0414479066
+    phone: 
     website: blog.lakshmanbasnet.com #do not add http://
-    linkedin: in/lakshmanbasnet
+    linkedin: lakshman-basnet-1609b1b3
     github: lakshmanbasnet
     bitbucket:
     twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     youtube: knowledgeserverplus
 
-    certifications:
-      - idiom: Digital Marketing
-        level: Charles Sturt University
+    languages:
+      - idiom: English
+        level: Excellent
 
-      - idiom: Google Ads
-        level: Search, Display
+      - idiom: Hindi
+        level: Fluent
 
-      - idiom: Inbound Marketing
-        level: Hubspot
-
-      - idiom: Content  and Email Marketing
-        level: Hubspot
-
-      - idiom: Google My Business
-        level: Google
-
-      - idiom: 3CX Certified Engineer
-        level: 3CX
+      - idiom: Nepali
+        level: Excellent
 
              
     interests:
@@ -50,39 +41,38 @@ sidebar:
       - item: Blogging
         link: blog.lakshmanbasnet.com
 
+      - item: 
+        link:
+
 career-profile:
     title: Career Profile
     summary: |
-      Digital Media Marketing professional with proven years of experience in digital media, computer programming, networking and web development. A great team player, fast learner and problem solver with leadership, project management and communication skills.
+      IT professional with proven years of experience in computer programming, networking, web development and digital media. A great team player, fast learner and problem solver with leadership, project management and communication skills.
 education:
     - degree: B.Sc in Computer Science and Information Technology
       university: Tribhuvan University
-      time: 
+      time: 2013 - 2017
       details: |
         Bachelors in Computer Science and IT with interests in e-commerce, programming and database system.
-    - degree: 10 +2 in Physical Sciences
+    - degree: 10 +2 in Physical Science
       university: Pentagon International College
-      time: 
+      time: 2011 - 2013
       details: |
-        
+        Two years of high schooling in physical science with interests in:
+          - Computer Science
+          - Mathematics
+          - Physics 
     - degree: Schooling
       university: Birendra Sainik Awasiya Mahavidyalaya
-      time: 
+      time: 2000 - 2010
       details: |
         Schooling from residential military shool.
           
 experiences:
     - role: Digital Marketing Coordinator
-      time: Nov 2018 - Jun 2019
-      company: My Money House, Adelaide, SA 5081
+      time: Nov 2018 - now
+      company: Financial Company, Adelaide, SA
       details: |
-          - Web design and development (Wordpress, PHP)
-          - Digital marketing plan and implementation
-          - SEO, SEM, Google ads, facebook ads
-          - Landing pages, chat bots, email marketing
-          - VOIP and 3CX management
-          - Windows  and Exchange Server, active directory, user management
-
           
     - role: Social Media Promoter
       time: Jun 2017 - Aug 2018
@@ -90,8 +80,8 @@ experiences:
       details: |
           - Social media marketing
           - Website development and maintenance
-          - SEO and SEM, site speed optimization
-          - Content marketing, email marketing
+          - SEO and SEM
+          - Content writing and blogging
           
     - role: Business Developer
       time: Jan 2016 - Dec 2016
@@ -100,16 +90,25 @@ experiences:
           - Communications and PR
           - Social media management
           - Business operations
-
-    - role: Digital Media Marketing Consultant
-      time: 2016 - 2018
-      company: Nepal Mega College, Swastik College, Souvenir Publications
-
+          
     - role: Computer Science Teacher
       time: Apr 2015 - Apr 2016
       company: Naulo Jyoti English School, Nepal
       details: |
-          
+          - Teach computer science
+          - Handle schools's network and security
+          - Monitor result processing software
+    - role: Digital Media Marketing Consultant
+      time: 2016 - 2018
+      company: Nepal Mega College, Swastik College, Souvenir Publications
+      
+    - role: Member
+      time: 2016 - 2018
+      company: Robotics Association of Nepal
+      
+    - role: Trusted Street View Photographer 
+      time: Jan 2018 - now
+      company:  Google Street View 
 
 skills:
     title: Skills &amp; Proficiency
@@ -122,17 +121,18 @@ skills:
         level: 82%
 
       - name: Web Design
-        level: 86%
+        level: 78%
 
       - name: Web Development
-        level: 79%
+        level: 70%
 
       - name: Email Marketing
         level: 90%
 
       - name: Network Management
-        level: 78%
+        level: 75%
 
-
+      - name: System Administration
+        level: 70%
 
 footer: >

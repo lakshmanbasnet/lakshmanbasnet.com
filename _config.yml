@@ -2,7 +2,7 @@
 
 # Site Settings
 title: Laxman Basnet's Resume - Digital Media Marketer Adelaide
-url: 'http://lakshmanbasnet.com'
+url: 'https://lakshmanbasnet.github.io/old-lakshmanbasnet.com/'
 baseurl: '' #change it according to your repository name
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
 theme_skin: blue # blue turquoise green berry orange ceramic
